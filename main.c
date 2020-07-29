@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-void main(){printf("main :)\n");}
+void main(){printf("mainsdsasad\n");}

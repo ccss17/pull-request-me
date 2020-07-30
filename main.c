@@ -1,5 +1,10 @@
 #include <stdio.h>
 
-void fewshot(){}
 
-void main(){printf("mainsdsasad\n");}
+void mastertest(){}
+
+int main(void){
+    printf("main :)\n");
+    return 0;
+}
+

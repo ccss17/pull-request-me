@@ -1,5 +1,11 @@
 #include <stdio.h>
 
-void fewshot(){}
+void fewshot(){
+}
 
-void main(){printf("mainsdsasad\n");}
+int main(void){
+    printf("main :)\n");
+    fewshot();
+    return 0;
+}
+

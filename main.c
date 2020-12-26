@@ -1,3 +1,5 @@
 #include <stdio.h>
 
-void main(){printf("mainsdsasad\n");}
+void main(){
+    printf("mainsdsasad\n");
+}
